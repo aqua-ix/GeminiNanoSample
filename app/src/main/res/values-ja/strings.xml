@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gemini Nano Sample</string>
+    <string name="chat_input_hint">メッセージを入力…</string>
+    <string name="chat_send">送信</string>
+</resources>

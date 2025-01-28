@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">gemini-nano-sample</string>
+    <string name="app_name">Gemini Nano Sample</string>
+    <string name="chat_input_hint">Input message…</string>
+    <string name="chat_send">Send</string>
 </resources>
