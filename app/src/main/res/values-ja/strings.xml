@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Gemini Nano Sample</string>
+    <string name="screen_title_chat">Gemini Nano Sample</string>
+    <string name="screen_title_settings">設定</string>
+    <string name="navigation_back">戻る</string>
+    <string name="navigation_settings">設定</string>
     <string name="chat_input_hint">メッセージを入力…</string>
     <string name="chat_send">送信</string>
+    <string name="settings_save">保存</string>
+    <string name="settings_reset">初期化</string>
+    <string name="settings_save_message">設定を保存しました</string>
+    <string name="settings_reset_message">設定を初期化しました</string>
+    <string name="settings_temperature_title">Temparature</string>
+    <string name="settings_temperature_description">出力のランダム性</string>
+    <string name="settings_temperature_error">0.0から1.0の間の値を入力してください</string>
+    <string name="settings_top_k_title">Top K</string>
+    <string name="settings_top_k_description">サンプリングで考慮されるトークンの累積確率</string>
+    <string name="settings_top_k_error">1から40の間の値を入力してください</string>
+    <string name="settings_max_tokens_title">最大出力トークン</string>
+    <string name="settings_max_tokens_description">応答で生成できるトークンの最大数</string>
+    <string name="settings_max_tokens_error">64から1024の間の値を入力してください</string>
 </resources>
